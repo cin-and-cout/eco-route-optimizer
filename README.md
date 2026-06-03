@@ -1,4 +1,4 @@
-# 🌿 EcoRoute Optimizer
+#  EcoRoute Optimizer
 
 > **Smart Routing for a Greener Future.**  
 > Calculate routes based on fuel efficiency, CO2 emissions, and environmental factors—not just travel time.
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Project Summary
+##  Project Summary
 
 **EcoRoute Optimizer** is an intelligent navigation and simulation platform designed to minimize carbon footprints. Unlike traditional GPS applications that prioritize the fastest path, this system performs a multi-dimensional analysis of **elevation gradients, real-time weather conditions, and traffic patterns** to identify the most fuel-efficient route.
 
@@ -28,7 +28,7 @@ Watch the full explanation and walkthrough of the project here:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system is built with a modular architecture, ensuring clear separation between core logic, API services, and the simulation agent.
 
@@ -42,7 +42,7 @@ The system is built with a modular architecture, ensuring clear separation betwe
 
 ---
 
-## 🔄 Control Flow & Logic
+##  Control Flow & Logic
 
 The application follows a rigorous data pipeline to convert raw geographic data into environmental insights:
 
@@ -56,18 +56,18 @@ The application follows a rigorous data pipeline to convert raw geographic data 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-*   **🌱 Eco-Routing**: Prioritizes routes with the lowest environmental impact.
-*   **⛰️ Terrain Awareness**: Incorporates elevation gain into fuel consumption calculations.
-*   **🌤️ Dynamic Weather**: Adjusts estimates based on real-time precipitation and wind speed.
-*   **🤖 Autonomous Rerouting**: Agent-driven simulation that switches routes as conditions evolve.
-*   **🗣️ AI Voice Guidance**: Crystal-clear neural voice summaries of trip metrics.
-*   **🔑 API Key Free**: Utilizes open-source and free-tier APIs (Open-Meteo, Open-Elevation, OSRM, Edge TTS) for zero-cost operation.
+*   ** Eco-Routing**: Prioritizes routes with the lowest environmental impact.
+*   ** Terrain Awareness**: Incorporates elevation gain into fuel consumption calculations.
+*   ** Dynamic Weather**: Adjusts estimates based on real-time precipitation and wind speed.
+*   ** Autonomous Rerouting**: Agent-driven simulation that switches routes as conditions evolve.
+*   ** AI Voice Guidance**: Crystal-clear neural voice summaries of trip metrics.
+*   ** API Key Free**: Utilizes open-source and free-tier APIs (Open-Meteo, Open-Elevation, OSRM, Edge TTS) for zero-cost operation.
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Backend:** FastAPI (Python 3.9+)
 - **Frontend:** HTML5, CSS3, JavaScript (Leaflet.js, Bootstrap 5)
@@ -81,7 +81,7 @@ The application follows a rigorous data pipeline to convert raw geographic data 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 .
@@ -97,7 +97,7 @@ The application follows a rigorous data pipeline to convert raw geographic data 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 *   Python 3.9+
@@ -129,7 +129,7 @@ The application follows a rigorous data pipeline to convert raw geographic data 
 
 ---
 
-## 🐳 Docker Deployment
+##  Docker Deployment
 
 Run the entire stack using Docker Compose:
 
@@ -139,5 +139,5 @@ docker-compose up --build
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License.
